@@ -3,7 +3,7 @@
 @section('content')
     <div class="container py-4">
         <div class="d-flex justify-content-between align-items-center mb-3">
-            <h1 class="mb-0">Veículos</h1>
+            <h1 class="mb-0">Cadastro de Veículos</h1>
             <a href="{{ route('veiculos.create') }}" class="btn btn-primary">
                 <i class="bi bi-plus-lg"></i> Novo Veículo
             </a>
