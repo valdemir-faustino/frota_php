@@ -8,7 +8,7 @@
 
     <div class="mb-3">
         <a href="{{ route('veiculos.index') }}" class="btn btn-secondary">
-            <i class="bi bi-arrow-left"></i> Voltar para a lista
+            <i class="bi bi-arrow-left"></i> Voltar para a lista de veiculos
         </a>
     </div>
 
